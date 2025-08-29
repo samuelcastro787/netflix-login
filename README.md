@@ -10,3 +10,7 @@ O objetivo foi praticar conceitos de **responsividade**, **formulários** e **es
 - CSS3 (responsivo, media queries, hover effects)
 - Flexbox & Grid
 - Gradiente + overlay de imagens
+
+## 📸 Demonstração
+
+![Preview do projeto](./img/preview.png)
