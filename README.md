@@ -1,4 +1,4 @@
-# 🎬 Netflix Login Clone
+# 🎬 Netflix Login
 
 Este projeto é uma recriação da **página de login da Netflix**, feita com **HTML e CSS**.  
 O objetivo foi praticar conceitos de **responsividade**, **formulários** e **estilização moderna**.
